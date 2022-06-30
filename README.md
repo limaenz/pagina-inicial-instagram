@@ -12,13 +12,14 @@
 
 ---
 # Indice 
-- [🔖 Sobre](#-sobre)
-- [🚀 Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [📁 Como baixar o projeto](#-como-baixar-o-projeto)
+- [Indice](#indice)
+  - [🔖 Sobre](#-sobre)
+  - [🚀 Tecnologias utilizadas](#-tecnologias-utilizadas)
+  - [📁 Como baixar o projeto](#-como-baixar-o-projeto)
 
 ## 🔖 Sobre
 
-O projeto **Recriando a página inicial do instagram** foi criado dentro do curso **Bootcamp HTML Web Developer** da **Digital Innovation One* Inc. ** com o intuito de entendermos melhor flexbox e colocar em prática o conteúdo estudado em HTML e CSS. 
+O projeto **Recriando a página inicial do instagram** foi criado dentro do curso **Bootcamp HTML Web Developer** da **Digital Innovation One Inc.** com o intuito de entendermos melhor flexbox e colocar em prática o conteúdo estudado em HTML e CSS. 
 
 ---
 
