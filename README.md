@@ -11,18 +11,18 @@
 </h3 >
 
 ---
-# Indice
-- [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
-  
-##🔖 Sobre
+# Indice 
+- [🔖 Sobre](#-sobre)
+- [🚀 Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [📁 Como baixar o projeto](#-como-baixar-o-projeto)
+
+## 🔖 Sobre
 
 O projeto **Recriando a página inicial do instagram** foi criado dentro do curso **Bootcamp HTML Web Developer** com o intuito de entendermos melhor flexbox e colocar em prática o conteúdo estudado em HTML e CSS. 
 
 ---
 
-##🚀 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 
 o projeto foi desenvolvido utilizando as seguintes tecnologias
 
@@ -31,7 +31,7 @@ o projeto foi desenvolvido utilizando as seguintes tecnologias
   
 ---
 
-##📁 Como baixar o projeto
+## 📁 Como baixar o projeto
 
 ```bash
 #Clonar repositório
